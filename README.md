@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjay Tiwari
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on Frontend Development
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/sanjay-tiwari-b851b4258/
 
